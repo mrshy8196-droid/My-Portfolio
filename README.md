@@ -23,7 +23,7 @@ A responsive, high-performance personal portfolio website built with semantic HT
 ## 🚀 Live Demo
 
 Check out the live website here:
-👉 [Shahd's Portfolio](https://mrshy8196-droid.github.io/Portfolio)
+👉 [Shahd's Portfolio](https://mrshy8196-droid.github.io/My-Portfolio/)
 
 *(Note: Replace the link above with your actual GitHub Pages URL once deployed!)*
 
